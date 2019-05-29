@@ -1,0 +1,29 @@
+ Volume in drive C has no label.
+ Volume Serial Number is E20B-27F8
+
+ Directory of C:\Users\User\Documents\blog
+
+05/29/2019  11:04 PM    <DIR>          .
+05/29/2019  11:04 PM    <DIR>          ..
+03/26/2019  04:20 PM               695 .gitignore
+03/26/2019  04:20 PM                10 .ruby-version
+03/26/2019  04:20 PM    <DIR>          app
+03/26/2019  04:20 PM    <DIR>          bin
+03/26/2019  04:20 PM    <DIR>          config
+03/26/2019  04:20 PM               130 config.ru
+04/02/2019  05:53 PM    <DIR>          db
+03/26/2019  04:33 PM             1,973 Gemfile
+03/26/2019  04:35 PM             5,233 Gemfile.lock
+03/26/2019  04:20 PM    <DIR>          lib
+05/29/2019  11:04 PM                 0 listmyfolder.txt
+03/26/2019  04:36 PM    <DIR>          log
+03/26/2019  04:20 PM                62 package.json
+03/26/2019  04:20 PM    <DIR>          public
+03/26/2019  04:20 PM               227 Rakefile
+03/26/2019  04:20 PM               374 README.md
+03/26/2019  04:20 PM    <DIR>          storage
+03/26/2019  04:20 PM    <DIR>          test
+03/26/2019  04:36 PM    <DIR>          tmp
+03/26/2019  04:20 PM    <DIR>          vendor
+               9 File(s)          8,704 bytes
+              13 Dir(s)  57,960,734,720 bytes free
