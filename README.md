@@ -3,22 +3,16 @@
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
-Things you may want to cover:
+You need to have Rails Framework installed in your system.
 
-* Ruby version
+Open terminal in the Project Folder.
 
-* System dependencies
+Navigate to bin Folder.
 
-* Configuration
+To get ur database connected to your app.
 
-* Database creation
+use command: $ bin/rails db:migrate 
 
-* Database initialization
+Once, your db is ready, you are good to start ur Blog App.
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+To run use command $ bin/rails server
